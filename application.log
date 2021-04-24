@@ -1,0 +1,29 @@
+2021-04-24 17:04:31.805  INFO 16012 --- [restartedMain] com.calculator.CalculatorApplication     : Starting CalculatorApplication using Java 15.0.2 on LAPTOP-QS2GMSDC with PID 16012 (C:\Users\dilsh\Downloads\calculator\calculator\target\classes started by dilsh in C:\Users\dilsh\Downloads\calculator\calculator)
+2021-04-24 17:04:31.806  INFO 16012 --- [restartedMain] com.calculator.CalculatorApplication     : No active profile set, falling back to default profiles: default
+2021-04-24 17:04:31.910  INFO 16012 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-04-24 17:04:31.913  INFO 16012 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-24 17:04:31.913  INFO 16012 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-24 17:04:31.923  INFO 16012 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-24 17:04:31.923  INFO 16012 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 115 ms
+2021-04-24 17:04:31.945  INFO 16012 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-24 17:04:31.962  INFO 16012 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-24 17:04:31.967  INFO 16012 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-24 17:04:31.971  INFO 16012 --- [restartedMain] com.calculator.CalculatorApplication     : Started CalculatorApplication in 0.184 seconds (JVM running for 88.455)
+2021-04-24 17:04:31.971  INFO 16012 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-24 17:04:32.377  INFO 16012 --- [RMI TCP Connection(13)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-04-24 17:04:32.391  INFO 16012 --- [RMI TCP Connection(13)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-24 17:04:36.056  INFO 10196 --- [restartedMain] com.calculator.CalculatorApplication     : Starting CalculatorApplication using Java 15.0.2 on LAPTOP-QS2GMSDC with PID 10196 (C:\Users\dilsh\Downloads\calculator\calculator\target\classes started by dilsh in C:\Users\dilsh\Downloads\calculator\calculator)
+2021-04-24 17:04:36.058  INFO 10196 --- [restartedMain] com.calculator.CalculatorApplication     : No active profile set, falling back to default profiles: default
+2021-04-24 17:04:36.087  INFO 10196 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-24 17:04:36.087  INFO 10196 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-24 17:04:36.596  INFO 10196 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-04-24 17:04:36.608  INFO 10196 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-24 17:04:36.608  INFO 10196 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-24 17:04:36.644  INFO 10196 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-24 17:04:36.644  INFO 10196 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 557 ms
+2021-04-24 17:04:36.745  INFO 10196 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-24 17:04:36.857  INFO 10196 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-24 17:04:36.886  INFO 10196 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-24 17:04:36.894  INFO 10196 --- [restartedMain] com.calculator.CalculatorApplication     : Started CalculatorApplication in 1.078 seconds (JVM running for 1.56)
+2021-04-24 17:05:38.717  INFO 10196 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-04-24 17:05:38.737  INFO 10196 --- [RMI TCP Connection(7)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
